@@ -1,9 +1,0 @@
-#Fri Apr 30 23:30:50 CEST 2010
-avrtarget/ClockFrequency=12800000
-avrtarget/ExtRAMSize=0
-avrtarget/ExtendedRAM=false
-avrtarget/MCUType=atmega644
-avrtarget/UseEEPROM=false
-avrtarget/UseExtendedRAMforHeap=true
-avrtarget/perConfig=false
-eclipse.preferences.version=1
