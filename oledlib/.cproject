@@ -41,7 +41,7 @@
 <tool id="de.innot.avreclipse.tool.size.winavr.lib.debug.308911374" name="Print Size" superClass="de.innot.avreclipse.tool.size.winavr.lib.debug"/>
 </toolChain>
 </folderInfo>
-<fileInfo id="de.innot.avreclipse.configuration.lib.debug.498109985.399289971" name="oled.c" rcbsApplicability="disable" resourcePath="oledlib.c" toolsToInvoke="de.innot.avreclipse.tool.compiler.winavr.lib.debug.236840984.1541423812">
+<fileInfo id="de.innot.avreclipse.configuration.lib.debug.498109985.399289971" name="oled.c" rcbsApplicability="disable" resourcePath="seps525lib.c" toolsToInvoke="de.innot.avreclipse.tool.compiler.winavr.lib.debug.236840984.1541423812">
 <tool id="de.innot.avreclipse.tool.compiler.winavr.lib.debug.236840984.1541423812" name="AVR Compiler" superClass="de.innot.avreclipse.tool.compiler.winavr.lib.debug.236840984">
 <option id="de.innot.avreclipse.compiler.option.incpath.17255115" name="Include Paths (-I)" superClass="de.innot.avreclipse.compiler.option.incpath" valueType="includePath">
 <listOptionValue builtIn="false" value="&quot;C:\WinAVR-20100110\avr\include&quot;"/>
@@ -815,7 +815,7 @@
 <tool id="de.innot.avreclipse.tool.size.winavr.lib.release.596904639" name="Print Size" superClass="de.innot.avreclipse.tool.size.winavr.lib.release"/>
 </toolChain>
 </folderInfo>
-<fileInfo id="de.innot.avreclipse.configuration.lib.release.539750202.1675525724" name="oled.c" rcbsApplicability="disable" resourcePath="oledlib.c" toolsToInvoke="de.innot.avreclipse.tool.compiler.winavr.lib.release.707546429.315642466">
+<fileInfo id="de.innot.avreclipse.configuration.lib.release.539750202.1675525724" name="oled.c" rcbsApplicability="disable" resourcePath="seps525lib.c" toolsToInvoke="de.innot.avreclipse.tool.compiler.winavr.lib.release.707546429.315642466">
 <tool id="de.innot.avreclipse.tool.compiler.winavr.lib.release.707546429.315642466" name="AVR Compiler" superClass="de.innot.avreclipse.tool.compiler.winavr.lib.release.707546429">
 <option id="de.innot.avreclipse.compiler.option.incpath.976447085" name="Include Paths (-I)" superClass="de.innot.avreclipse.compiler.option.incpath" valueType="includePath">
 <listOptionValue builtIn="false" value="&quot;C:\WinAVR-20100110\avr\include&quot;"/>
