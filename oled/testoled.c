@@ -5,9 +5,10 @@
  *      Author: guy
  */
 #include <avr/io.h>
-#include "oled.h"
+#include <seps525lib.h>
+
 int main (void){
 
-oled_init();
+	oled_init();
 	return 0;
 }
